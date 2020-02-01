@@ -1,0 +1,2 @@
+# NucleusWarpsToEssentialsX
+将Sponge服务器Nucleus插件的传送点转换为EssentialsX的传送点
