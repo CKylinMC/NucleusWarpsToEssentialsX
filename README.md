@@ -2,8 +2,12 @@
 Python3脚本
 将Sponge服务器Nucleus插件的传送点转换为Spigot EssentialsX的传送点
 
-这个脚本是我在尝试把我和朋友的xponge(mc1.12)服务器升级到Paper(1.14)服务器时所写的脚本。
+这个脚本是我在尝试把我和朋友的sponge(mc1.12)服务器升级到Paper(1.14)服务器时所写的脚本。
 
+## 提示
+
+* 需要安装Python3.x，并安装`pyyaml`模块(`pip install pyyaml`)
+* 需要提前知道新旧世界名字和ID
 
 ## 使用方法
 
